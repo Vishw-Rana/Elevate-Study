@@ -59,3 +59,46 @@ git clone https://github.com/your-username/elevate-study.git
 cd elevate-study
 npm install
 npm run dev
+```
+
+## 💻 Run Locally
+
+Start the development server:
+```bash
+
+npm run dev
+```
+
+Then open:
+```bash
+
+http://localhost:3000
+```
+
+📁 Project Structure
+```bash
+elevate-study/
+│
+├── src/
+│   ├── components/
+│   ├── features/
+│   │   ├── todo/
+│   │   ├── tracker/
+│   │   ├── goals/
+│   │   └── streak/
+│   ├── pages/
+│   └── utils/
+│
+├── public/
+├── package.json
+└── README.md
+```
+## 🧩 Core Principles
+- Solo passion project
+- Focus on productivity only
+- No AI note-taking or summarization features
+- Simple and distraction-free design
+- Built for local usage
+## 📄 License
+
+This project is licensed under the MIT License.
